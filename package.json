@@ -10,6 +10,7 @@
     "bindings": "^1.2.1"
   },
   "devDependencies": {
+    "bser": "^1.0.2",
     "jest": "^13.0.0",
     "nan": "^2.0.5",
     "node-gyp": "^3.4.0"
